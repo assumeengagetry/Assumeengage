@@ -15,6 +15,6 @@ const d = document.getElementById("ifra").contentWindow.document;
                     tasks.forEach(clearInterval);
                 }
             } catch {}
-        }, 5)
+        }, 5)//每5毫秒查询一次，这个可以改，建议不要写1毫秒，容易死人！！
     );
 })();
