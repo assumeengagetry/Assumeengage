@@ -1,4 +1,4 @@
-const kch = '304209030', kxh = '01';
+const kch = '304209030', kxh = '01';//课程号和课序号自己该
 const d = document.getElementById("ifra").contentWindow.document;
 
 (() => {
