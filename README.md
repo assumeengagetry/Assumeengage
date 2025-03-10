@@ -41,7 +41,8 @@
 - **学习计划**  
   - **基础**：微积分与现代数学（那些杀不死我的，还不如直接杀死我）、英语六级备考（雾）  
   - **数据结构与算法**：CS61B、Coursera Algorithms I & II、syy 程序设计基础（跪）  
-  - **机器学习与深度学习**：  
+  - **机器学习与深度学习**：
+    ~~这个我是真的不想学~~
     - [BoyuAI 书籍](https://hml.boyuai.com/books)  
     - [Bilibili 视频](https://www.bilibili.com/video/BV1Lom1YEE5A/?vd_source=c89e29d142cf433974aeea5057524058)  
     - [PyTorch Tutorials](https://github.com/pytorch/tutorials)  
@@ -49,5 +50,10 @@
   - **Rust: The Book**  
     权限和底层问题搞得我头大（猫猫听完都累了）。  
   - **Java 烧烤**（bushi）
-
+    - UCB CS169: software engineering
+    - MIT 6.031: Software Construction
+  - **计网（一个让人头疼的存在）：**
+    - USTC Computer Networking:A Top-Down Approach
+    - Computer Networking: A Top-Down Approach
+    - CS144: Computer Network 
 
