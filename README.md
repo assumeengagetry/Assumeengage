@@ -1,76 +1,53 @@
+
 # 日常发癫
 
-这是~~碎碎念~~(恼
+欢迎来到我的奇妙世界！这里记录了那些“删库跑路（bushi）”的往昔项目和未来要干的牛马大事，纯属自娱自乐。
 
-好叭，这实际上是自己的项目，之前干了什么（不定期删库跑路(bushi))，最近要做什么牛马(雾
+## 项目与研究
 
-## 主要项目
+- **脚本与 App（我是核动力驴）**  
+  *SCU-URP_Helper012*：油猴脚本、独立 App 和自制 Edge 插件，杂七杂八全搞定。
 
-### 物联网系统：贾维斯
+- **Makerhub**  
+  后端、数据库、文档、架构、测试、服务器配置与打包——精神状态时常崩溃，但依旧坚挺。
 
-一个融合语音交互与 RFID 技术的物联网模块，集成 RAG 技术，用于高效的设备控制与数据处理。
+- **RSIM**  
+  用 Rust 编写的 TG & Discord 跨平台即时通讯 APP（缝合怪），部分功能由我担当。
 
-- **语音交互模块**：实现文本输入与语音回答，提供便捷用户体验（就是音色是贾维斯doge。
-- **RFID 功能整合**：支持快速数据读取与设备控制，提升系统交互能力（恁牛（好叭实际做不出来。
-- **AI 增强模块**：集成 RAG 技术，玩一下**GPTDB**。
-- **微信小程序接入**：rfid其中一个模块整合，可以从小程序端输入。
-- **实体模块**：加入灯带和音响，增强视觉与听觉体验（就是做一个炫酷的钢铁侠核心。
+- **物联网系统：贾维斯**  
+  融合语音交互、RFID 与 RAG 技术的 IoT 模块：  
+  - **语音交互**：文本输入与语音回答，音色尽显贾维斯范儿。  
+  - **RFID 整合**：快速数据读取与设备控制，虽然实际效果还需完善。  
+  - **AI 增强**：集成 RAG 技术，顺便玩玩 **GPTDB**。  
+  - **微信小程序接入**：实现小程序端操作。  
+  - **实体模块**：灯带和音响，让系统有了“钢铁侠”般的炫酷体验。
 
-### AI 研究：NLP 与 GraphRAG and Yolo
+- **AI 研究：NLP、GraphRAG 与 YOLO**  
+  探索知识检索与生成的新边界：  
+  - **视觉识别模型**：基于 YOLOv8进行数据标注和模型训练，用各种“妙妙方法”玩转图像识别。  
+  - **RAG 研究**：深入 GraphRAG 和 LightRAG 技术，追求多模态小小震撼（确信）。
 
-专注于 NLP 和 GraphRAG 技术研究，优化知识检索与生成能力，探索 YOLO 和 Mindspore 技术。
+- **魔法编程学**  
+  玩转 Arch、原生安卓、TX2 Nano、Atlas、树莓派……虽然感觉“没救了”，但乐在其中！
 
-- **视觉识别模型**：基于 YOLOv8 提升图像识别能力，标数据，训模型，用一些~~妙妙方法~~（老炼丹师从容.jpg。
-- **RAG 研究**：研究 GraphRAG 和 LightRAG 技术，探索知识检索与生成的应用与优化，来一点小小的multimodel震撼（确信。
+## 技术工具与学习计划
 
-### 杂七杂八的脚本和 App
+- **资产清单**  
+  - **域名**：assumeengage.fun（国内） / assumeengage.com（国外）  
+  - **ECS**：阿里云（青岛） / Cloudflare（纽约）  
+  - **DNS & OSS**：两个 DNS、三个阿里云 OSS  
+  - **设备**：Atlas200DK、JETSON TX2、碎屏的联想 Yoga
 
-- **SCU-URP_Helper012**：包括油猴脚本、独立 App 和自制的 Edge 插件。
+- **学习计划**  
+  - **基础**：微积分与现代数学（那些杀不死我的，还不如直接杀死我）、英语六级备考（雾）  
+  - **数据结构与算法**：CS61B、Coursera Algorithms I & II、syy 程序设计基础（跪）  
+  - **机器学习与深度学习**：  
+    - [BoyuAI 书籍](https://hml.boyuai.com/books)  
+    - [Bilibili 视频](https://www.bilibili.com/video/BV1Lom1YEE5A/?vd_source=c89e29d142cf433974aeea5057524058)  
+    - [PyTorch Tutorials](https://github.com/pytorch/tutorials)  
+    - [Thorough PyTorch](https://cjqshu.github.io/thorough-pytorch/)  
+  - **Rust: The Book**  
+    权限和底层问题搞得我头大（猫猫听完都累了）。  
+  - **Java 烧烤**（bushi）
 
-- ### Makerhub：开发 makerhub 后端、数据库及相关文档、架构、测试和服务器配置，打包（雾（嘻嘻（精神状态崩坏。
 
-- ### RSIM ：用rust写的TG和Discord的~~缝合怪~~即时通讯跨平台app，负责部分功能的开发（当牛马（确信。
-
-
-  ## 魔法编程学（doge
-
-玩一下arch，原生安卓，玩一下tx2 nano atlas 树莓派等等（没救了（确信
-
-
-
-## 技术工具
-
-### 资产清单
-
-- **域名**：assumeengage.fun（国内）、assumeengage.com（国外）
-- **ECS**：阿里云（青岛）、Cloudflare（纽约）
-- **DNS & OSS**：两个 DNS、三个阿里云 OSS
-- **设备**：惠普战系列电脑（Ubuntu 22.04）、1+7Pro 手机（硬件故障）、Atlas200DK、NVIDIA JETSON NANO、JETSON TX2、树莓派 4B、屏幕碎的联想 yoga
-
-## 算法学习
-
-- **数据结构**：数组、字符串、链表、指针、二叉树、栈、队列、堆
-- **算法思想**：贪心、动态规划、回溯、哈希
-
-## 还要学两三门课：
-- 微积分和现代（那些杀不死我的还不如直接杀死我
-- 英语准备六级（雾
-
-- **structures and algorithms:**
-
-CS61B: Data Structures and Algorithms
-Coursera: Algorithms I & II
-syy的程序设计基础（跪
-
-- **machine learning and deep learning:**
-
-https://hml.boyuai.com/books
-https://www.bilibili.com/video/BV1Lom1YEE5A/?vd_source=c89e29d142cf433974aeea5057524058
-https://github.com/pytorch/tutorials
-https://cjqshu.github.io/thorough-pytorch/
-
-- **rust: the book **
-
-真的被权限和底层给搞糊涂了（猫猫听完都死了.jpg
-
-- **java烧烤(bushi**
