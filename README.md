@@ -16,7 +16,7 @@
 - **微信小程序接入**：rfid其中一个模块整合，可以从小程序端输入。
 - **实体模块**：加入灯带和音响，增强视觉与听觉体验（就是做一个炫酷的钢铁侠核心。
 
-### AI 研究：NLP 与 GraphRAG
+### AI 研究：NLP 与 GraphRAG and Yolo
 
 专注于 NLP 和 GraphRAG 技术研究，优化知识检索与生成能力，探索 YOLO 和 Mindspore 技术。
 
@@ -25,18 +25,16 @@
 
 ### 杂七杂八的脚本和 App
 
-- **SCU-URP_Helper012**：包括油猴脚本、独立 App 和自制的 Edge 插件，提高效率。
-
-- **QQ Bot**：自动回复私聊信息的机器人，提升社交沟通效率。
+- **SCU-URP_Helper012**：包括油猴脚本、独立 App 和自制的 Edge 插件。
 
 - ### Makerhub：开发 makerhub 后端、数据库及相关文档、架构、测试和服务器配置，打包（雾（嘻嘻（精神状态崩坏。
 
-- ### RSIM ：用rust写的TG和Discord的~~缝合怪~~即时通讯跨平台app，负责部分功能的开发（当牛马（确信
+- ### RSIM ：用rust写的TG和Discord的~~缝合怪~~即时通讯跨平台app，负责部分功能的开发（当牛马（确信。
 
 
   ## 魔法编程学（doge
 
-玩一下arch，原生安卓，刷一下机，玩一下tx2 nano atlas 树莓派等等（没救了（确信
+玩一下arch，原生安卓，玩一下tx2 nano atlas 树莓派等等（没救了（确信
 
 
 
@@ -54,12 +52,25 @@
 - **数据结构**：数组、字符串、链表、指针、二叉树、栈、队列、堆
 - **算法思想**：贪心、动态规划、回溯、哈希
 
-还要学两三门课：
+## 还要学两三门课：
+- 微积分和现代（那些杀不死我的还不如直接杀死我
+- 英语准备六级（雾
+
+- **structures and algorithms:**
 
 CS61B: Data Structures and Algorithms
-
 Coursera: Algorithms I & II
-
 syy的程序设计基础（跪
 
-动态规划还得再学学，图论还没开始（大雾弥漫
+- **machine learning and deep learning:**
+
+https://hml.boyuai.com/books
+https://www.bilibili.com/video/BV1Lom1YEE5A/?vd_source=c89e29d142cf433974aeea5057524058
+https://github.com/pytorch/tutorials
+https://cjqshu.github.io/thorough-pytorch/
+
+- **rust: the book **
+
+真的被权限和底层给搞糊涂了（猫猫听完都死了.jpg
+
+- **java烧烤(bushi**
